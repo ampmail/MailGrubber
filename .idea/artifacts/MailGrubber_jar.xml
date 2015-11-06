@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MailGrubber:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MailGrubber_jar</output-path>
+    <root id="archive" name="MailGrubber.jar">
+      <element id="module-output" name="MailGrubber" />
+    </root>
+  </artifact>
+</component>
