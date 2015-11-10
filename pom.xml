@@ -10,9 +10,16 @@
 
     <dependencies>
         <dependency>
-            <groupId>org.urish.openal</groupId>
-            <artifactId>java-openal</artifactId>
-            <version>1.0.0</version>
+            <groupId>org.apache.servicemix.bundles</groupId>
+            <artifactId>org.apache.servicemix.bundles.xpp3</artifactId>
+            <version>1.1.4c_4</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20080701</version>
+        </dependency>
+
     </dependencies>
 </project>
